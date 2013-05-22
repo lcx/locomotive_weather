@@ -1,5 +1,4 @@
 require "locomotive_weather/version"
-require 'liquid'
 require 'wunderground'
 
 module Locomotive
